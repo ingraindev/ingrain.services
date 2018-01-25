@@ -1,0 +1,11 @@
+C:\Ingrain\Ingrain.Services\Ingrain.Services\bin\Debug\netcoreapp2.0\Ingrain.Services.deps.json
+C:\Ingrain\Ingrain.Services\Ingrain.Services\bin\Debug\netcoreapp2.0\Ingrain.Services.runtimeconfig.json
+C:\Ingrain\Ingrain.Services\Ingrain.Services\bin\Debug\netcoreapp2.0\Ingrain.Services.runtimeconfig.dev.json
+C:\Ingrain\Ingrain.Services\Ingrain.Services\bin\Debug\netcoreapp2.0\Ingrain.Services.dll
+C:\Ingrain\Ingrain.Services\Ingrain.Services\bin\Debug\netcoreapp2.0\Ingrain.Services.pdb
+C:\Ingrain\Ingrain.Services\Ingrain.Services\obj\Debug\netcoreapp2.0\Ingrain.Services.csprojResolveAssemblyReference.cache
+C:\Ingrain\Ingrain.Services\Ingrain.Services\obj\Debug\netcoreapp2.0\Ingrain.Services.csproj.CoreCompileInputs.cache
+C:\Ingrain\Ingrain.Services\Ingrain.Services\obj\Debug\netcoreapp2.0\Ingrain.Services.AssemblyInfoInputs.cache
+C:\Ingrain\Ingrain.Services\Ingrain.Services\obj\Debug\netcoreapp2.0\Ingrain.Services.AssemblyInfo.cs
+C:\Ingrain\Ingrain.Services\Ingrain.Services\obj\Debug\netcoreapp2.0\Ingrain.Services.dll
+C:\Ingrain\Ingrain.Services\Ingrain.Services\obj\Debug\netcoreapp2.0\Ingrain.Services.pdb
